@@ -9,7 +9,7 @@ let colorDimension = {
   },
   "8": {
     size: 64,
-    color: "#0000FF"
+    color: "#1BB0FF"
   },
   "16": {
     size: 64,
@@ -43,4 +43,17 @@ let colorDimension = {
     size: 26,
     color: "#A659A9"
   },
-}
+"4096": {
+    size: 26,
+    color: "#FA58D0"
+  },
+  "8192": {
+    size: 26,
+    color: "#086A87"
+  },
+  "16384": {
+    size: 16,
+    color: "#A901DB"
+  },
+  
+ }
